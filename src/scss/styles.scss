@@ -1,8 +1,11 @@
+@import "custom";
+@import "solarized";
+
 // Import variables
 @import "./variables.scss";
 
 // Import Bootstrap
-@import "bootstrap/scss/bootstrap.scss";
+@import "bootstrap/scss/bootstrap";
 
 // Global CSS
 @import "./global.scss";
